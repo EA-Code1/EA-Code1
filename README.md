@@ -6,8 +6,10 @@ I'm software developer who enjoys learning and working with web development. Som
 
 Skills: JS / HTML / CSS/ REACT 
 
-## Project Example
-<img src="https://github.com/EA-Code1/intoTech/blob/main/into-Images/intotech.gif" width="256" />
+## Project Introduction Examples
+[<img src="https://github.com/EA-Code1/intoTech/blob/main/into-Images/intotech.gif" width="256" />]
+[<img src="https://github.com/EA-Code1/aph_electronics/blob/main/aph_img/aphc.gif" width="256" />]
+
 
 
 
