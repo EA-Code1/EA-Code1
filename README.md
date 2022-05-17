@@ -5,7 +5,7 @@
 I'm software developer who enjoys learning and working with web development. Some of the technologies I enjoy operating with are HTML, CSS, JavaScript, PHP and also their frameworks React and Laravel.
 
 ## Skills 
-JS / HTML / CSS/ REACT 
+JS / HTML / CSS/ REACT/ PHP
 
 ## Examples of Projects Short Version 
 [<img src="https://github.com/EA-Code1/intoTech/blob/main/into-Images/intotech.gif" width="256" />]
