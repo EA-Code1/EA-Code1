@@ -6,8 +6,8 @@ I'm software developer who enjoys learning and working with web development. Som
 
 Skills: JS / HTML / CSS/ REACT 
 
-- 🔭 I’m always learning. 
-
+## Project Example
+<img src="https://github.com/EA-Code1/intoTech/blob/main/into-Images/intotech.gif" width="256" />
 
 
 
