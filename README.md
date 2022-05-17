@@ -1,4 +1,4 @@
-![Software Development ](https://github.com/EA-Code1/EA-Code1/blob/main/Ernest%20Appiah.png)
+![Software Development ](https://github.com/EA-Code1/EA-Code1/blob/main/Ernest%20_Appiah.png)
 ### Hi there 👋🏾, Ernest Appiah
 #### Software Development 
 
